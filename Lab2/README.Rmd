@@ -14,6 +14,8 @@ r["CRAN"] <- "https://ftp.osuosl.org/pub/cran/"
 options(repos = r)
 ```
 
+# Jonathan's Version
+
 # Lab 2 - Introduction to Analysis of Habitat Use by Wolves in Banff National Park
 
 In the next 5 R computer labs (Labs 2 - 6), you have been charged with developing a conceptual framework for modeling wolf habitat use and selection to identify habitat for wolves as a function of a mix of environmental and 'biotic' variables, some of which we will explore today. These variables include elevation, landcover, human activity, and ungulate habitat suitability.  The next 4 (or more) labs will build on each other as we explore the definition of  wolf habitat using sample data from the Northern Rockies. In this first lab, you have been asked to describe wolf use of three habitat variables; elevation, ungulate species habitat suitability, and distance to human access.
